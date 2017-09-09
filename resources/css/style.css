@@ -1,0 +1,278 @@
+/** orange color used: #F8A524 **/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #fff;
+  color: #555;
+  font-family: 'Lato', 'Arial', sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+  text-rendering: optimizeLegibility;
+}
+
+/**----- Reusable components -----**/
+
+.row {
+  max-width: 1500px;
+  margin: 0 auto;
+}
+
+section {
+  padding: 75px 0;
+}
+
+/**----- Header Section -----**/
+
+.index-header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.55)), url("../../vendors/img/sprawling-city-reverse.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+.navigation {
+  width: 100%;
+  background: linear-gradient(to left, rgba(144, 144, 144, .5), rgba(248, 165, 36, .5));
+  height: 98px;
+}
+
+.main-nav {
+  float: right;
+  list-style: none;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.logo {
+  float: left;
+  margin: 20px 20px;
+  height: 60px;
+  width: auto;
+  margin-bottom: 0;
+}
+
+.main-nav li {
+  display: inline-block;
+  margin-left: 40px;
+  margin-top: 45px;
+}
+
+.main-nav li a:link,
+.main-nav li a:visited {
+  padding: 4px 0;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 90%;
+  border-bottom: 2px solid transparent;
+  transition: border-bottom 0.2s;
+}
+
+.main-nav li a:hover,
+.main-nav li a:active {
+  border-bottom: 2px solid #F8A524;
+}
+
+.head-text-box {
+  position: absolute;
+  max-width: 1140px;
+  max-height: 100px;
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+}
+
+/**----- Header Text -----**/
+
+h1, h2, h3 {
+  margin: 0;
+  font-weight: 300;
+  letter-spacing: 1px;
+  word-spacing: 4px;
+}
+
+h1 {
+  display: block;
+  color: #fff;
+  font-weight: 100;
+  font-size: 300%;
+
+}
+
+h2 {
+  text-align: center;
+  font-size: 200%;
+  word-spacing: 4px;
+  text-transform: uppercase;
+  margin-bottom: 30px;
+}
+
+h2:after {
+  display: block;
+  height: 2px;
+  background-color: #F8A524;
+  content: " ";
+  max-width: 350px;
+  margin: 10px auto 0 auto;
+}
+
+h3 {
+  font-size: 150%;
+}
+
+/**----- Extended Nav Area - Feature Set -----**/
+
+.icon-big {
+  color: #F8A524;
+  font-size: 420%;
+  display: block;
+}
+
+.extended-nav-container a:link,
+.extended-nav-container a:visited {
+  text-decoration: none;
+  color: inherit;
+}
+
+.extended-nav-container a:hover,
+.extended-nav-container a:active {
+  color: #F8A524;
+  transition: color 0.2s;
+}
+
+.nav-box-with-icons {
+  text-align: center;
+  margin-top: 30px;
+}
+
+/**----- Paragraphs -----**/
+
+.extended-nav-container p {
+  text-align: center;
+  line-height: 150%;
+  width: 70%;
+  margin-left: 15%;
+}
+
+
+/** Seperates footer from extended-nav-container **/
+.parallax-city {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../../vendors/img/pano-field.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 325px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/**----- Footer Section -----**/
+
+.about-dev-site {
+  margin: 0 3%;
+  margin-top: -2%;
+  padding-bottom: 0;
+}
+
+.about-you p {
+  margin-top: 25%;
+}
+
+.about-you img {
+  height: 90px;
+  width: auto;
+  border-radius: 200px;
+}
+
+.btn-read-more {
+  display: inline-block;
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 300;
+  border: 2px solid #F8A524;
+  background-color: #F8A524;
+  border-radius: 200px;
+  padding: 3px 8px;
+  margin-left: 31.5%;
+  margin-right: auto;
+}
+
+.about-you a:hover,
+.about-you a:active {
+  background-color: #DF9620;
+  border-color: #DF9620;
+  transition: border-color background-color 0.2s;
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-left: 20px;
+  overflow: hidden;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 70%;
+  padding-bottom: 20px;
+}
+
+@media only screen and (max-width: 480px) {
+    .video-container iframe, .video-container object, .video-container embed {
+      height: 100%;
+      padding-top: 30px;
+    }
+    .about-you p {
+      margin-top: 0;
+    }
+    .about-you img {
+      height: 75px;
+      width: auto;
+      margin-top: -55px;
+    }
+}
+
+footer {
+  text-align: center;
+  padding-bottom: 8px;
+  padding-top: 8px;
+  border-top: 1px solid #F8A524;
+}
+
+/**---------------------------**/
+
+/**----- Content-template.php stylings below -----**/
+
+/**FOR TESTING ONLY!**/
+.content-template {
+  color: black;
+}
+
+.secondary-navigation {
+  background: linear-gradient(to left, rgba(144, 144, 144, 1), rgba(248, 165, 36, 1));
+  height: 98px;
+}
+
+.content-page-text {
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 18px 18px;
+  word-spacing: 4px;
+  letter-spacing: 1px;
+}
+
+.side-nav-container {
+  background-color: blue;
+}
