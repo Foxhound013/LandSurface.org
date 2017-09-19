@@ -10,7 +10,7 @@
         <p><?php include "resources/includes/mytext.txt" ?></p>
       </div>
 
-      <div class="col span-1-of-4 side-nav-container">
+      <div class="col span-1-of-4 extended-nav-container secondary-side-nav-container">
         <?php include "resources/includes/side-nav-container-items.php" ?>
       </div>
 
