@@ -1,4 +1,4 @@
-<nav class="navigation secondary-navigation">
+<nav class="navigation">
   <div class="row">
     <a href="index.php"><img class="logo" src="./vendors/img/logo.png" alt="Purdue Logo"></a>
     <ul class="main-nav">
