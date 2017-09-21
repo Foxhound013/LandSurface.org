@@ -270,3 +270,16 @@ footer {
   word-spacing: 4px;
   letter-spacing: 1px;
 }
+
+.secondary-side-nav-container {
+  padding-left: 5%;
+}
+
+@media only screen and (max-width: 945px) {
+  .content-page-text {
+    width: 100%;
+  }
+  .secondary-side-nav-container {
+    width: 100%;
+  }
+}
