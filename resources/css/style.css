@@ -273,11 +273,15 @@ footer {
 
 .secondary-side-nav-container {
   padding-left: 5%;
+  font-size: 90%;
 }
 
-@media only screen and (max-width: 945px) {
+@media only screen and (max-width: 840px) {
   .content-page-text {
     width: 100%;
+  }
+  .secondary-side-nav-container {
+    font-size: 100%;
   }
   .span-1-of-4 {
     width: 100%;
