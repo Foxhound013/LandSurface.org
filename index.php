@@ -18,7 +18,7 @@
 
         <div class="row">
           <div class="col span-1-of-3 nav-box-with-icons">
-            <a href="#">
+            <a href="content-template.php?pageid=news-and-highlights">
               <i class="ion-ios-paper-outline icon-big"></i>
               <h3>News &amp; Highlights</h3>
             </a>
@@ -77,7 +77,7 @@
               Models, and to the Federal Geophysical Data Commission (FGDC) Spatial Climate Working
               Group.
             </p>
-            <a class="btn btn-read-more" href="content-template.php">Read More</a>
+            <a class="btn btn-read-more" href="content-template.php?pageid=about">Read More</a>
           </div>
 
           <div class="col span-1-of-2 video-container">
@@ -87,6 +87,5 @@
       </section>
 
     <?php include "resources/includes/footer.php" ?>
-
   </body>
 </html>

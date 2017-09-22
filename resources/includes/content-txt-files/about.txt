@@ -1,0 +1,90 @@
+<p> <img src="resources/img/dniyogi.jpg" alt="Dr. Dev Niyogi" class="profile-img">
+My research deals with the understanding and representation of the effects of vegetation – land surface processes in environmental processes at different scales.
+I am one of the three invited, non-federal representatives to the community modeling effort of the Weather Research and Forecast (WRF) model working group on Land Surface Models,
+and to the Federal Geophysical Data Commission (FGDC) Spatial ClimateWorking Group.
+</p>
+
+<br>
+
+<p>
+The research activities are based on the synthesis of field observations and modeling analysis, for process studies, hypothesis – driven experimentation, and applications of the model
+results for interdisciplinary climate change problems. The research improves the understanding of the effect of environmental changes on the plant and landsurface response and the representation
+of the land surface processes in models for understanding the nonlinear feedback between plant and landsurface changes on regional scale environmental processes. Past and ongoing research is
+largely federally funded through a variety of competitive research grants through NSF, NASA, NOAA, and USDA NRI CGP. I have authored or co-authored 25 successful proposals for external
+grants totaling over $3M. I vertically integrate undergraduate, graduate and postdoctoral researchers in my research and am very interdisciplinary in developing collaborative projects.
+</p>
+
+<br>
+
+<p>
+A list of peer reviewed publications resulting from my research is available in the publications section. Five papers I have co-authored have received good recognition in the popular press
+following a NASA Earth System Science press release, Associated Press releases, and three more published papers have been highlighted by the American Geophysical Union in its proceedings Eos
+as feature articles. All the papers can be found <a href="../../../content-template.php?pagid=publications">here.</a>
+</p>
+
+<br>
+
+<p>
+My overall research activities are targeted towards: (a) developing and evaluating process scale models for better representation of leaf and canopy scale processes; (b) testing and applying
+these models for regional studies; and (c) using statistical-dynamical approaches for assessing the coupling between the various land surface components for weather, air quality, and climate
+studies.
+</p>
+
+<br>
+
+<p>
+My current research projects are in following areas: Land Surface Process Modeling, Satellite Data Assimilation, Terrestrial Ecosystem and Atmosphere, Land Atmosphere Interactions, Agricultural
+Air Quality, Carbon and Hydrological Cycle, Biospheric Processes in Weather and Regional Climate Models, Integrating Isotopic and Dynamical Models, and Synthesis of Multiscale/Multisensor Remote
+and Land based Observational Systems.
+</p>
+
+<br>
+
+<p>
+The specific objectives of this research are based on the systematic investigation of five questions from leaf/ canopy, to landscape, to regional and continental scales:
+  <br><br>
+  <ol class="about-page-list">
+    <li>
+      What do field observations from insitu and remote sensed datasets reveal about the effect of environmental changes such as radiation, temperature, humidity, and soil moisture on
+      plant response such as evapotranspiration, photosynthesis, and productivity?
+    </li>
+    <br>
+    <li>
+      What is the ability of the different modeling systems and leaf and canopy scale models for simulating the observed environmental response on the plant scale, and what improvements
+      are needed to represent the processes more accurately?
+    </li>
+    <br>
+    <li>
+      What is the impact of incorporating improvements in the terrestrial biosphere processes and enhanced landuse/land cover scaling within land surface models on the dynamical predictions
+      of the environmental and weather/climate processes such as convection, precipitation, and surface moisture at regional scales?
+    </li>
+    <br>
+    <li>
+      What is the effect of landuse/land cover changes (such as urbanization) on the regional water cycle components such as precipitation and evaporation/transpiration?
+    </li>
+    <br>
+    <li>
+      What is the relative role and impact of local to regional scale land surface representation versus large-scale changes due to greenhouse gases and sea surface temperature changes and
+      atmospheric radiative changes on the regional and global climate variability?
+    </li>
+  </ol>
+</p>
+
+<br>
+
+<p>
+The research improves the understanding of the environmental changes on terrestrial biosphere and the representation of the biosphere – atmosphere interactions in regional scale models of
+environmental, weather and climate systems. The research seeks to understand the processes affecting land surface processes at regional scales and has an applied component which seeks to
+improve the accuracy of these models by representing correct feedbacks between land and the atmosphere and by incorporating in-situ and remote sensing information coupled with a hierarchy of
+modeling systems.
+</p>
+
+<br>
+
+<p>
+A highlighted feature of my work is to assess the impact of land surface heterogeneity on severe weather systems and the Indian Monsoon region. I look forward to synergizing the interactions
+by using collaborations to advance scientific discoveries, and improvements in modeling systems. This will be interwoven along the theme of improving land surface processes and their
+representation in micro, meso and regional scale models and further contribute to enhance the reputation of the department and the university.
+</p>
+
+<br>

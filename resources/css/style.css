@@ -269,6 +269,7 @@ footer {
   padding: 18px 18px;
   word-spacing: 4px;
   letter-spacing: 1px;
+  text-transform: justify;
 }
 
 .secondary-side-nav-container {
@@ -286,4 +287,18 @@ footer {
   .span-1-of-4 {
     width: 100%;
   }
+}
+
+
+/** about page styling **/
+.profile-img {
+  float: left;
+  margin-right: 2%;
+  height: 150px;
+  width: auto;
+  border-radius: 200px;
+}
+
+.about-page-list {
+  padding-left: 8%;
 }

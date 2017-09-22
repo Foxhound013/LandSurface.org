@@ -7,7 +7,13 @@
     </header>
     <div class="row">
       <div class="col span-3-of-4 content-page-text">
-        <p><?php include "resources/includes/mytext.txt" ?></p>
+        <?php if ($_GET['pageid']=='about') {
+            include "resources/includes/content-txt-files/about.txt";
+          }
+          elseif ($_GET['pageid']=='news-and-highlights') {
+            include "resources/includes/content-txt-files/news-and-highlights.txt";
+          }
+        ?>
       </div>
 
       <div class="col span-1-of-4 extended-nav-container secondary-side-nav-container">
