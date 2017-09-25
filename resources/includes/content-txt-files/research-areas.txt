@@ -1,0 +1,21 @@
+<p><strong>Research Areas and Interests</strong></p>
+<br>
+<ul class="content-template-list">
+  <li>
+    Representing Land Surface Processes in mesoscale weather forecast models and Regional Climate Models for severe weather/ convection initiation
+  </li>
+  </br>
+  <li>
+    Satellite Remote sensing and data assimilation within weather and climate models
+  </li>
+  </br>
+  <li>
+    Regional Climate and Non greenhouse gas forcing of climate feedbacks
+  </li>
+  </br>
+  <li>
+    Current research projects are in following areas: Terrestrial Ecosystem and Atmosphere, Agricultural Air Quality, Carbon and Hydrological Cycle, Biospheric Processes in Weather and
+    Regional Climate Models, Land Atmosphere Interactions, Agriculture Meteorology, Applied Climatology, Hydrometeorology, PBL and Mesoscale Processes, Climate Informatics, Remote and Land
+    based Observational Systems.
+  </li>
+</ul>

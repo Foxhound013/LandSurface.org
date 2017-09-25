@@ -25,14 +25,14 @@
           </div>
 
           <div class="col span-1-of-3 nav-box-with-icons">
-            <a href="#">
+            <a href="content-template.php?pageid=publications">
               <i class="ion-ios-book-outline icon-big"></i>
               <h3>Publications</h3>
             </a>
           </div>
 
           <div class="col span-1-of-3 nav-box-with-icons">
-            <a href="#">
+            <a href="content-template.php?pageid=research-areas">
               <i class="ion-ios-flask-outline icon-big"></i>
               <h3>Research Areas</h3>
             </a>
@@ -41,21 +41,21 @@
 
         <div class="row">
           <div class="col span-1-of-3 nav-box-with-icons">
-            <a href="#">
+            <a href="content-template.php?pageid=team">
               <i class="ion-ios-people-outline icon-big"></i>
               <h3>Team</h3>
             </a>
           </div>
 
           <div class="col span-1-of-3 nav-box-with-icons">
-            <a href="#">
+            <a href="content-template.php?pageid=images">
               <i class="ion-images icon-big"></i>
               <h3>Images</h3>
             </a>
           </div>
 
           <div class="col span-1-of-3 nav-box-with-icons">
-            <a href="#">
+            <a href="content-template.php?pageid=courses">
               <i class="ion-compose icon-big"></i>
               <h3>Courses</h3>
             </a>

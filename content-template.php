@@ -13,6 +13,18 @@
           elseif ($_GET['pageid']=='news-and-highlights') {
             include "resources/includes/content-txt-files/news-and-highlights.txt";
           }
+          elseif ($_GET['pageid']=='publications') {
+            include "resources/includes/content-txt-files/publications.txt";
+          }
+          elseif ($_GET['pageid']=='research-areas') {
+            include "resources/includes/content-txt-files/research-areas.txt";
+          }
+          elseif ($_GET['pageid']=='team') {
+            include "resources/includes/content-txt-files/team.txt";
+          }
+          elseif ($_GET['pageid']=='courses') {
+            include "resources/includes/content-txt-files/courses.txt";
+          }
         ?>
       </div>
 

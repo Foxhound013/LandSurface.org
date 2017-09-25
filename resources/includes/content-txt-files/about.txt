@@ -43,7 +43,7 @@ and Land based Observational Systems.
 <p>
 The specific objectives of this research are based on the systematic investigation of five questions from leaf/ canopy, to landscape, to regional and continental scales:
   <br><br>
-  <ol class="about-page-list">
+  <ol class="content-template-list">
     <li>
       What do field observations from insitu and remote sensed datasets reveal about the effect of environmental changes such as radiation, temperature, humidity, and soil moisture on
       plant response such as evapotranspiration, photosynthesis, and productivity?

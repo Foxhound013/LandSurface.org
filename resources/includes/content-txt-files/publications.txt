@@ -1,0 +1,88 @@
+<p><strong>Selected Publications -<a href="https://scholar.google.com/citations?user=Ixl0-pAAAAAJ&hl=en"> Google Scholar Page</a></strong> for a complete list of publications</p>
+<br>
+
+<ul class="content-template-list">
+  <li>
+    Kumar A., J. Dudhia, R. Rotunno, D. Niyogi, and U.C. Mohanty, 2008, Analysis of the July 26, 2005 heavy rain event over Mumbai, India using the Weather Research and
+    Forecasting (WRF) model, Quart. J. Roy. Met. Soc.,134, 1897 - 1910.
+  </li>
+  <br>
+  <li>
+    Alfieri, J.G., D. Niyogi, P.D. Blanken, F. Chen, M.A. LeMone, K.E. Mitchell, M.B. Ek, and A. Kumar, 2008, Estimation of the Minimum Canopy Resistance for Croplands and
+    Grasslands Using Data from the 2002 International H2O Project. Mon. Wea. Rev., 136, 4452-4469.
+  </li>
+  <br>
+  <li>
+    Alapaty K., D. Niyogi, F. Chen, P. Pyle, A. Chandrasekar, N. Seaman, 2008, Development of the Flux-Adjusting Surface Data Assimilation System for Mesoscale Models, J. Appl.
+    Meteorol. Clim., 47, 2331 - 2350.
+  </li>
+  <br>
+  <li>
+    Occhipinti, C, V.P. Aneja, W. Showers, and D. Niyogi, 2008, Back-Trajectory Analysis and Source-Receptor Relationships: Particulate Matter and Nitrogen Isotopic Composition in
+    Rainwater, Journal of the Air & Waste Management Association, 58, 1215-1222.
+  </li>
+  <br>
+  <li>
+    Xavier V. F., A. Chandrasekar, H. Rahman, D. Niyogi, K. Alapaty, 2008, The Effect of Assimilation of Satellite and Conventional Meteorological Data for the Prediction of a Monsoon
+    Depression over India using a Mesoscale Model, Meteorology and Atmospheric Physics, 10.1007/s00703-008-0314-7
+  </li>
+  <br>
+  <li>
+    Matsui, T., A. Beltrán-Przekurat, D. Niyogi, R.A. Pielke Sr., and M. Coughenour, 2008: Aerosol light scattering effect on terrestrial plant productivity and energy fluxes over the eastern
+    United States. J. Geophys. Res. – Yoram J. Kaufman Symposium Issue, 113, D14S14, doi:10.1029/2007JD009658
+  </li>
+  <br>
+  <li>
+    Vinod Kumar, A. Chandrasekar, K. Alapaty, and D. Niyogi 2008, The impact of indirect soil moisture assimilation and direct surface temperature and humidity assimilation on a mesoscale model
+    simulation of an Indian monsoon depression, Journal of Applied Meteorology and Climatology, 47, 1393 - 1412. DOI: 10.1175/2007JAMC1599.1
+  </li>
+  <br>
+  <li>
+    M. Lei*, D. Niyogi, C. Kishtawal, R. Pielke Sr., A. Beltrán-Przekurat, T. Nobis, and S. Vaidya, 2008, Effect of explicit urban land surface representation on the simulation of the 26 July
+    2005 heavy rain event over Mumbai, India, Atmos. Chem. Phys., 8, 5975 - 5995.
+  </li>
+  <br>
+  <li>
+    Aneja, V.P., J. Blunden, P. A. Roelle, W. H. Schlesinger, R. Knighton, W. Gilliam, D. Niyogi, G. Jennings, and C. Duke, 2008,Workshop on Agricultural Air Quality: State of the Science, Atmospheric
+    Environment, 42, 3195-3208 doi:10.1016/j.atmosenv.2007.07.043
+  </li>
+  <br>
+  <li>
+    Aneja V., J. Blunden, K. James, W.H. Schlesinger, R. Knighton, W. Gilliam, D. Niyogi, S. Cole, 2008, Ammonia Assessment from Agriculture: US Status and National Needs, J. Environmental Quality, 37, 515 - 520.
+    DOI: 10.2134/jeq2007.0002in
+  </li>
+  <br>
+  <li>
+    Pielke Sr., R.A., C. Davey, D. Niyogi, S. Fall, J. Steinweg-Woods, K. Hubbard, X. Lin, M. Cai, Y.-K. Lim, H. Li, J. Nielsen-Gammon, K. Gallo, R. Hale, J. Angel, R. Mahmood, S. Foster,
+    R.T. McNider, and P. Blanken, 2007, Unresolved issues with the assessment of multi-decadal global land surface temperature trends. J. Geophys. Research, in press
+  </li>
+  <br>
+  <li>
+    Houston, A., and D. Niyogi, 2007, The Sensitivity of Convective Initiation to the Lapse Rate of the Active Cloud-Bearing Layer, Mon. Wea. Rev., accepted.
+  </li>
+  <br>
+  <li>
+    D. Niyogi , H. Chang, L. Gu, S. Menon, R. A. Pielke Sr., 2006, Land - Atmosphere Aerosol Interactions on Indian Monsoon, J. Natural Hazards (Monsoon Issue), accepted. (Invited).
+  </li>
+  <br>
+  <li>
+    D. Niyogi , T. Holt, S. Zhong, P.C. Pyle, J. Basara, 2006: Urban and Land Surface Effects on the 30 July 2003 MCS Event Observed in the Southern Great Plains, Journal of
+    Geophysical Research, 111, D19107, doi:10.1029/2005JD006746.
+  </li>
+  <br>
+  <li>
+    Holt T., D. Niyogi , F. Chen, M. A. LeMone, K. Manning, A. L. Qureshi*, 2005, Investigation of the impact of land - atmosphere interactions on convection initiation in Southern Great Plains:
+    Synthesis of the May 24-25, 2002 International H2O Project (IHOP) Convection, Monthly Weather Review, (IHOP Special Issue), accepted.
+  </li>
+  <br>
+  <li>
+    Niyogi D. , H. Chang*, V. K. Saxena, T .Holt, K. Alapaty, F. Booker, F. Chen, K.J. Davis, B. Holben, T. Matsui*, T. Meyers, W.C. Oechel, R. A. Pielke Sr., R. Wells, K. Wilson, Y.K. Xue, 2004,
+    Direct observations of the Effects of Aerosol loading on Net Ecosystem CO2 Exchanges over Different Landscapes, Geophysical Research Letters, 31, L20506, doi:10.1029/2004GL020915. NASA Press
+    Release: <a href="https://www.nasa.gov/vision/earth/environment/aerosol_carbon.html">Tiny Air Particles Change How Much Carbon Plants Absorb</a>
+  </li>
+  <br>
+  <li>
+    Pielke Sr., R.A., G. Marland, R.A. Betts, T.N. Chase, J.L. Eastman, J.O. Niles, D. Niyogi , and S. Running, 2002, The influence of land-use change and landscape dynamics on the climate system-
+    relevance to climate change policy beyond the radiative effect of greenhouse gases. Phil. Trans. Royal Soc. (London) A. Special Theme Issue, 360, 1705-1719.
+  </li>
+</ul>
